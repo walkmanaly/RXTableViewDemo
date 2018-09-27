@@ -14,7 +14,6 @@
 		01C2BD9B215CCB08002C024B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01C2BD99215CCB08002C024B /* LaunchScreen.storyboard */; };
 		01C2BDA6215CCB08002C024B /* RXTableViewDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01C2BDA5215CCB08002C024B /* RXTableViewDemoTests.swift */; };
 		01C2BDB1215CCB08002C024B /* RXTableViewDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01C2BDB0215CCB08002C024B /* RXTableViewDemoUITests.swift */; };
-		01C2BDBF215CCCE7002C024B /* MusicTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01C2BDBE215CCCE7002C024B /* MusicTableViewCell.swift */; };
 		01C2BDC1215CD2A1002C024B /* MusicList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01C2BDC0215CD2A1002C024B /* MusicList.swift */; };
 		01C2BDC3215CD2B8002C024B /* Music.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01C2BDC2215CD2B8002C024B /* Music.swift */; };
 		9B2EA9764123FCD7C72971E9 /* Pods_RXTableViewDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DAE695565F183F640F49B100 /* Pods_RXTableViewDemo.framework */; };
@@ -51,7 +50,6 @@
 		01C2BDAC215CCB08002C024B /* RXTableViewDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RXTableViewDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		01C2BDB0215CCB08002C024B /* RXTableViewDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RXTableViewDemoUITests.swift; sourceTree = "<group>"; };
 		01C2BDB2215CCB08002C024B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		01C2BDBE215CCCE7002C024B /* MusicTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicTableViewCell.swift; sourceTree = "<group>"; };
 		01C2BDC0215CD2A1002C024B /* MusicList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicList.swift; sourceTree = "<group>"; };
 		01C2BDC2215CD2B8002C024B /* Music.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Music.swift; sourceTree = "<group>"; };
 		18A206BA202EB4B95CD28ABD /* Pods-RXTableViewDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RXTableViewDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-RXTableViewDemo/Pods-RXTableViewDemo.release.xcconfig"; sourceTree = "<group>"; };
@@ -112,7 +110,6 @@
 			children = (
 				01C2BD90215CCB06002C024B /* AppDelegate.swift */,
 				01C2BD92215CCB06002C024B /* ViewController.swift */,
-				01C2BDBE215CCCE7002C024B /* MusicTableViewCell.swift */,
 				01C2BDC0215CD2A1002C024B /* MusicList.swift */,
 				01C2BDC2215CD2B8002C024B /* Music.swift */,
 				01C2BD94215CCB06002C024B /* Main.storyboard */,
@@ -343,7 +340,6 @@
 				01C2BD93215CCB06002C024B /* ViewController.swift in Sources */,
 				01C2BD91215CCB06002C024B /* AppDelegate.swift in Sources */,
 				01C2BDC3215CD2B8002C024B /* Music.swift in Sources */,
-				01C2BDBF215CCCE7002C024B /* MusicTableViewCell.swift in Sources */,
 				01C2BDC1215CD2A1002C024B /* MusicList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
